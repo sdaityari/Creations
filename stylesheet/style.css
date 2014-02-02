@@ -18,7 +18,8 @@ body {
 .container-left {
 	width:272px;
 	height:815px;
-	background:url(../images/containerleft.jpg) left top no-repeat;
+	/*background:url(../images/bwback.jpg) left top no-repeat;*/
+	background:url(../images/background.jpg) left top no-repeat;
 	float:left;
 }
 
@@ -53,8 +54,12 @@ body {
 .girlimg {
 	position:relative;
 	float:right;
-	left:12px;
+	left:-12px;
 	top:-35px;
+}
+
+.girlimg img{
+	width:95px;
 }
 
 .column1 {
