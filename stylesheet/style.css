@@ -276,6 +276,11 @@ h4 {
 	float:right;
 	border:4px solid #b0a48b;
 	margin:0px 0px 10px 20px;
+	width: 130px;
+}
+
+.aboutus-info{
+	font-size:11px;
 }
 
 .aboutcolumnzone {
