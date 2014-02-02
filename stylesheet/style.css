@@ -283,6 +283,11 @@ h4 {
 	font-size:11px;
 }
 
+.architect{
+	font-size: small;
+	margin-bottom: -10px;
+}
+
 .aboutcolumnzone {
 	padding:20px 0px 16px 0px;
 }
